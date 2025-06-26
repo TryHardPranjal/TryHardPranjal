@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Pranjal Sinha
-- 👀 I’m interested in Python and Automation Testing.
-- 🌱 I’m currently learning Selenium, Playwright ,Jenkins with Python.
-- 💞️ I’m looking to collaborate on various projects related to Automation Testing.
-- 📫 How to reach me-send an email at pspsinha77@gmail.com
+👋 Hi, I'm Pranjal Sinha
+🔧 Jr. QA Engineer | Manual & Automation Testing | Python | Selenium
+
+💼 Experience in writing and executing detailed test cases
+🐞 Skilled in identifying, documenting, and tracking bugs using JIRA
+🧪 Strong understanding of SDLC, STLC, test case lifecycle, and defect lifecycle
+🧰 Proficient in tools like Jmeter and Postman
+📚 Currently learning Selenium with Python for automation testing
+✔️ Familiar with Agile methodology and collaborative QA processes
+🧠 Passionate about quality, precision, and continuous improvement
+📫 How to reach me-send an email at pspsinha77@gmail.com
 
