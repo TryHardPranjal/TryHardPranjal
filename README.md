@@ -1,12 +1,21 @@
 👋 Hi, I'm Pranjal Sinha  
-🔧 Jr. QA Engineer | Manual & Automation Testing | Python | Selenium  
+🔧 Jr. QA Engineer | Manual & Automation Testing | Python | Java | Js/Ts | Selenium | Playwright | JMeter | Postman | AIML
 
-💼 Experience in writing and executing detailed test cases  
-🐞 Skilled in identifying, documenting, and tracking bugs using JIRA  
-🧪 Strong understanding of SDLC, STLC, test case lifecycle, and defect lifecycle  
-🧰 Proficient in tools like JMeter and Postman  
-📚 Proficient in Selenium with Python for automation testing  
-✔️ Familiar with Agile methodology and collaborative QA processes  
-🧠 Passionate about quality, precision, and continuous improvement  
-📫 How to reach me – send an email at **pspsinha77@gmail.com**
+💼 About Me
+Experienced in manual & automation testing across web and API applications
+Hands-on with:
+✅ Selenium (Python, Java)
+✅ Playwright (JS/TS)
+✅ Postman (API testing)
+✅ JMeter (performance testing)
+Skilled in bug tracking & management with JIRA
+Strong grasp of SDLC, STLC, test case lifecycle, and defect lifecycle
+Familiar with Agile methodology and collaborative QA practices
+Knowledge of AI/ML concepts to support intelligent system testing
 
+🧠 What Drives Me
+Passionate about quality, precision, and continuous improvement
+Always exploring ways to bridge QA with automation, AI/ML, and DevOps
+
+📫 Connect with Me
+📧 Email: pspsinha77@gmail.com
