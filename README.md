@@ -9,9 +9,13 @@ Hands-on with:
 ✅ Postman (API testing)
 ✅ JMeter (performance testing)
 Skilled in bug tracking & management with JIRA
-Strong grasp of SDLC, STLC, test case lifecycle, and defect lifecycle
+Strong grasp of:
+SDLC
+STLC
+Test case lifecycle
+Defect lifecycle
 Familiar with Agile methodology and collaborative QA practices
-Knowledge of AI/ML concepts to support intelligent system testing
+Knowledge of AI/ML concepts for testing intelligent systems
 
 🧠 What Drives Me
 Passionate about quality, precision, and continuous improvement
