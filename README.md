@@ -1,41 +1,73 @@
-👋 Hi, I'm Pranjal Sinha  
-🔧 Jr. QA Engineer | Manual & Automation Testing | Python | Java | Js/Ts | Selenium | Playwright | JMeter | Postman | AIML
+# 👋 Hi, I'm Pranjal Sinha
 
-💼 About Me
-Experienced in manual & automation testing across web and API applications
+🔧 **QA Engineer | Manual & Automation Testing**
 
-Hands-on with:
+---
 
-✅ Selenium (Python, Java)
+## 🧪 About Me
+I focus on **ensuring software quality** through structured **manual testing** and scalable **automation frameworks**.  
+My work involves testing **web, mobile, and API-based applications** with an emphasis on reliability, coverage, and maintainability.
 
-✅ Playwright (JS/TS)
+I enjoy working in **Agile environments** and continuously improving testing strategies using automation, CI/CD, and modern QA tools.
 
-✅ Postman (API testing)
+---
 
-✅ JMeter (performance testing)
+## 🛠️ Skills & Tools
 
-Skilled in bug tracking & management with JIRA
+### 🔹 Testing
+- Manual Testing
+- Functional, Regression & Smoke Testing
+- Exploratory & End-to-End Testing
+- Test Case Design
+- Defect Lifecycle Management
 
-Strong grasp of:
+### 🔹 Automation
+- Selenium (Python, Java)
+- Playwright (TypeScript / JavaScript)
+- Appium
+- Pytest
+- Page Object Model (POM)
 
-SDLC
+### 🔹 API & Performance
+- API Testing with Postman
+- REST API Validation
+- Performance Testing (JMeter, BlazeMeter)
 
-STLC
+### 🔹 CI/CD & Practices
+- Jenkins CI/CD
+- Git
+- Agile / Scrum
+- Cross-browser & Cross-device Testing
+- Accessibility Testing (WCAG 2.1 AA)
 
-Test case lifecycle
+### 🔹 Programming
+- Python
+- Java
+- TypeScript / JavaScript
+- SQL
 
-Defect lifecycle
+---
 
-Familiar with Agile methodology and collaborative QA practices
+## 📌 Projects
 
-Knowledge of AI/ML concepts for testing intelligent systems
+### 🔹 Selenium–Pytest Automation Framework
+- Web automation framework using Selenium & Pytest
+- Page Object Model with reusable components
+- Data-driven testing (JSON)
+- Parallel execution & suite segregation
+- CI/CD-ready with headless execution
 
-🧠 What Drives Me
+### 🔹 Heart Disease Prediction (AI/ML)
+- Machine learning models for classification
+- Data preprocessing and feature engineering
+- Model evaluation and optimisation
+- Flask-based API for predictions
 
-Passionate about quality, precision, and continuous improvement
+---
 
-Always exploring ways to bridge QA with automation, AI/ML, and DevOps
-
-📫 Connect with Me
-
-📧 Email: pspsinha77@gmail.com
+## 🧠 Interests
+- Automation Framework Design
+- API & Performance Testing
+- Quality Engineering Best Practices
+- Testing AI/ML-driven Systems
+- Continuous Improvement in QA
