@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/API-Testing-orange" />
 <img src="https://img.shields.io/badge/AI-LLM%20Testing-purple" />
 <img src="https://img.shields.io/badge/CI/CD-Jenkins-red" />
-<img src="https://img.shields.io/badge/Learning-AI%20SDET-yellow" />
+<img src="https://img.shields.io/badge/Goal-AI%20SDET-yellow" />
 
 </p>
 
@@ -17,25 +17,15 @@
 
 ## 🧪 About Me
 
-I am a **Test Software Engineer** with experience in **manual testing, Playwright automation, API validation, and AI/LLM testing**.
+I am a **Test Software Engineer** with ~2 years of experience in **Playwright automation, API validation, and AI/LLM testing**.
 
-I focus on building scalable automation solutions, validating business-critical workflows, and improving software quality through modern testing practices.
+I focus on developing scalable automation solutions, validating AI-driven workflows, and ensuring software quality through modern testing practices.
 
-Currently transitioning toward:
+Current direction:
 
-🚀 **AI SDET**  
-🚀 **GenAI Tester**  
-🚀 **AI Test Engineer**
-
-Current learning focus:
-
-- Playwright (TypeScript/JavaScript)
-- API Automation
-- Docker
-- AI Testing
-- DeepEval
-- RAGAS
-- Prompt Engineering
+🚀 AI SDET  
+🚀 GenAI Tester  
+🚀 AI Test Engineer
 
 ---
 
@@ -44,8 +34,8 @@ Current learning focus:
 ### 🔹 Automation & Testing
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -67,7 +57,7 @@ Current learning focus:
 
 ---
 
-### 🔹 AI / QA Areas
+### 🔹 AI / Quality Engineering
 
 ✅ AI/LLM Testing  
 ✅ Prompt Testing  
@@ -75,21 +65,19 @@ Current learning focus:
 ✅ Regression Testing  
 ✅ End-to-End Testing  
 ✅ Exploratory Testing  
-✅ STLC / SDLC  
 ✅ Agile/Scrum  
+✅ STLC / SDLC
 
 ---
 
-## 🎯 Current Goal
+## 🎯 Currently Expanding Expertise
 
-Build expertise in:
-
-- AI Testing Frameworks
+- Docker for test environments
 - DeepEval
 - RAGAS
-- Prompt-based validation
+- Promptfoo
 - AI evaluation systems
-- Modern QA automation architecture
+- Advanced QA automation architecture
 
 ---
 
